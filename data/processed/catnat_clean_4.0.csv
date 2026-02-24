@@ -333,7 +333,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1989-0119-BGD,Flood,Asia,Bangladesh,180.0,1989,,,1980,True
 2018-0469-SLB,Storm,Oceania,Solomon Islands,,2018,Tropical cyclone 'Penny',,2010,False
 2002-0766-MNG,Storm,Asia,Mongolia,3.0,2002, Dzud ,,2000,True
-1997-0272-AZO,Mass Movement (Wet),Europe,Azores Islands,29.0,1997,,,1990,True
+1997-0272-AZO,Mass Movement (Wet),Europe,Portugal,29.0,1997,,,1990,True
 2006-0324-GIN,Epidemic,Africa,Guinea,111.0,2006,Cholera,,2000,True
 2000-0790-TZA,Flood,Africa,Tanzania,36.0,2000,,,2000,True
 1933-0004-USA,Storm,Americas,United States,40.0,1933,,,1930,True
@@ -646,7 +646,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1974-0041-NER,Flood,Africa,Niger,,1974,,,1970,False
 1995-0123-PAK,Flood,Asia,Pakistan,12.0,1995,,,1990,True
 2012-0027-JPN,Storm,Asia,Japan,134.0,2012,,,2010,True
-1982-0300-CSK,Extreme Temperature,Europe,Czechoslovakia,0.0,1982,,,1980,False
+1982-0300-CSK,Extreme Temperature,Europe,Czechia,0.0,1982,,,1980,False
 1982-0119-FRA,Storm,Europe,France,12.0,1982,,,1980,True
 1995-0187-PHL,Storm,Asia,Philippines,6.0,1995,Kent (Gening),,1990,True
 2022-0355-ESP,Wildfire,Europe,Spain,,2022,,,2020,False
@@ -873,7 +873,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2013-0493-NIC,Epidemic,Americas,Nicaragua,3.0,2013,Dengue,,2010,True
 2014-9332-HND,Drought,Americas,Honduras,,2014,,,2010,False
 2013-0138-IND,Storm,Asia,India,8.0,2013,Tropical cyclone Mahasen ,,2010,True
-2025-0277-SPI,Storm,Africa,Canary Islands,,2025,Storm 'Oliver',,2020,False
+2025-0277-SPI,Storm,Africa,Spain,,2025,Storm 'Oliver',,2020,False
 2017-0581-GMB,Flood,Africa,Gambia,6.0,2017,,,2010,True
 1969-9009-ETH,Drought,Africa,Ethiopia,,1969,,,1960,False
 2005-0323-BGD,Extreme Temperature,Asia,Bangladesh,,2005,,,2000,False
@@ -970,7 +970,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2020-0438-USA,Storm,Americas,United States,8.0,2020,Hurricane 'Sally',,2020,True
 2007-0683-IND,Flood,Asia,India,40.0,2007,,,2000,True
 1995-0216-VEN,Epidemic,Americas,Venezuela,,1995,Dengue fever,-1.0,1990,False
-1964-0016-AZO,Earthquake,Europe,Azores Islands,,1964,,4.6,1960,False
+1964-0016-AZO,Earthquake,Europe,Portugal,,1964,,4.6,1960,False
 2008-0598-CHN,Flood,Asia,China,,2008,,,2000,False
 1968-0019-MYS,Storm,Asia,Malaysia,21.0,1968,,,1960,True
 2001-0027-AFG,Extreme Temperature,Asia,Afghanistan,150.0,2001,,-25.0,2000,True
@@ -1202,7 +1202,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1998-0380-GLP,Storm,Americas,Guadeloupe,,1998,Georges,,1990,False
 1998-0409-TGO,Flood,Africa,Togo,,1998,,,1990,False
 2001-0465-IND,Flood,Asia,India,,2001,,,2000,False
-1993-0240-BGD,Storm,Asia,Bengladesh,50.0,1993,,,1990,True
+1993-0240-BGD,Storm,Asia,Bangladesh,50.0,1993,,,1990,True
 2023-0460-SVK,Storm,Europe,Slovakia,,2023,,,2020,False
 2024-0422-USA,Storm,Americas,United States,46.0,2024,Hurricane 'Beryl',,2020,True
 1986-0237-USA,Flood,Americas,United States,,1986,,,1980,False
@@ -1474,7 +1474,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2006-0466-USA,Storm,Americas,United States,6.0,2006,Ernesto,,2000,True
 2024-0282-YEM,Flood,Asia,Yemen,,2024,,,2020,False
 1998-0220-PNG,Earthquake,Oceania,Papua New Guinea,2182.0,1998,,7.0,1990,True
-1990-0576-BGD,Storm,Asia,Bengladesh,370.0,1990,Ofa,,1990,True
+1990-0576-BGD,Storm,Asia,Bangladesh,370.0,1990,Ofa,,1990,True
 1985-0138-VEN,Flood,Americas,Venezuela,38.0,1985,,,1980,True
 1991-0066-PER,Earthquake,Americas,Peru,53.0,1991,,6.9,1990,True
 2016-0355-BHS,Storm,Americas,Bahamas,,2016,Hurricane  'Matthew',,2010,False
@@ -1838,7 +1838,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2000-0096-SWZ,Flood,Africa,Eswatini,,2000,,,2000,False
 2021-0215-IRN,Earthquake,Asia,Iran,,2021,,5.9,2020,False
 2023-0581-ESP,Flood,Europe,Spain,3.0,2023,,,2020,True
-2000-0713-BGD,Storm,Asia,Bengladesh,15.0,2000,,,2000,True
+2000-0713-BGD,Storm,Asia,Bangladesh,15.0,2000,,,2000,True
 2024-0357-IRN,Flood,Asia,Iran,19.0,2024,,,2020,True
 2013-0570-GIN,Epidemic,Africa,Guinea,,2013,Measles,,2010,False
 2019-0424-JPN,Storm,Asia,Japan,,2019,Tropical cyclone 'Lingling',,2010,False
@@ -2303,7 +2303,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2006-0022-RWA,Epidemic,Africa,Rwanda,35.0,2006,Cholera,,2000,True
 2013-0060-RUS,Impact,Europe,Russian Federation,,2013,,,2010,False
 1995-0403-USA,Storm,Americas,United States,27.0,1995,,,1990,True
-2006-0738-BGD,Storm,Asia,Bengladesh,22.0,2006,,,2000,True
+2006-0738-BGD,Storm,Asia,Bangladesh,22.0,2006,,,2000,True
 1978-9002-IDN,Drought,Asia,Indonésie,63.0,1978,,,1970,True
 2002-0790-LBN,Storm,Asia,Lebanon,,2002,,,2000,False
 2000-0240-USA,Wildfire,Americas,United States,,2000,,,2000,False
@@ -2519,7 +2519,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2002-0030-ETH,Epidemic,Africa,Ethiopia,12.0,2002,Yellow fever suspected,,2000,True
 2008-0053-ARG,Flood,Americas,Argentina,,2008,,,2000,False
 2020-0501-VNM,Storm,Asia,Vietnam,,2020,Tyhoon 'Ulysses' (Vamco),,2020,False
-1985-0248-CSK,Mass Movement (Wet),Europe,Czechoslovakia,10.0,1985,,,1980,True
+1985-0248-CSK,Mass Movement (Wet),Europe,Czechia,10.0,1985,,,1980,True
 1978-0144-MOZ,Storm,Africa,Mozambique,4.0,1978,Angele,,1970,True
 1983-0220-PHL,Storm,Asia,Philippines,8.0,1983,Orchid (Warling),,1980,True
 2013-0434-PHL,Flood,Asia,Philippines,20.0,2013,,,2010,True
@@ -2543,7 +2543,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1977-0232-BRA,Flood,Americas,Bresil,60.0,1977,,,1970,True
 2009-0385-AFG,Flood,Asia,Afghanistan,11.0,2009,,,2000,True
 2021-0562-USA,Flood,Americas,United States,1.0,2021,,,2020,True
-2011-0591-BGD,Storm,Asia,Bengladesh,13.0,2011,,,2010,True
+2011-0591-BGD,Storm,Asia,Bangladesh,13.0,2011,,,2010,True
 1945-0002-JPN,Storm,Asia,Japan,3746.0,1945,Makurazaki,,1940,True
 1975-0112-HKG,Flood,Asia,Hong Kong,,1975,,,1970,False
 1960-0060-NIC,Flood,Americas,Nicaragua,325.0,1960,,,1960,True
@@ -2611,7 +2611,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2008-0560-IND,Flood,Asia,India,54.0,2008,,,2000,True
 2023-0262-UGA,Flood,Africa,Uganda,23.0,2023,,,2020,True
 1985-0067-IND,Flood,Asia,Inde,133.0,1985,,,1980,True
-1992-0293-BGD,Flood,Asia,Bengladesh,,1992,,,1990,False
+1992-0293-BGD,Flood,Asia,Bangladesh,,1992,,,1990,False
 2006-0147-PER,Flood,Americas,Peru,,2006,,,2000,False
 1996-0247-USA,Storm,Americas,United States,,1996,Joséphine,,1990,False
 2018-0350-AFG,Flood,Asia,Afghanistan,11.0,2018,,,2010,True
@@ -2655,7 +2655,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2008-0628-MOZ,Flood,Africa,Mozambique,25.0,2008,,,2000,True
 2002-0645-CHN,Mass Movement (Wet),Asia,China,22.0,2002,,,2000,True
 2004-0163-BIH,Flood,Europe,Bosnia And Herzegovina,,2004,,,2000,False
-2016-0154-BGD,Storm,Asia,Bengladesh,59.0,2016,,,2010,True
+2016-0154-BGD,Storm,Asia,Bangladesh,59.0,2016,,,2010,True
 2011-0166-USA,Flood,Americas,United States,1.0,2011,,,2010,True
 1998-0133-COD,Epidemic,Africa,DR Congo,746.0,1998,Cholera,,1990,True
 2012-0102-AFG,Flood,Asia,Afghanistan,,2012,,,2010,False
@@ -3615,7 +3615,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2008-0369-HKG,Storm,Asia,Hong Kong,2.0,2008,"Tropical storm ""Nuri"" (Karen) ",,2000,True
 1988-0601-NZL,Storm,Oceania,New Zealand,6.0,1988,Bola,,1980,True
 2004-0235-MMR,Storm,Asia,Myanmar,236.0,2004,,,2000,True
-1987-0350-CSK,Storm,Europe,Czechoslovakia,,1987,,,1980,False
+1987-0350-CSK,Storm,Europe,Czechia,,1987,,,1980,False
 2022-0319-TZA,Epidemic,Africa,Tanzania,4.0,2022,Cholera,,2020,True
 1985-0131-IND,Flood,Asia,Inde,130.0,1985,,,1980,True
 2018-0314-MMR,Flood,Asia,Myanmar,7.0,2018,,,2010,True
@@ -3893,7 +3893,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2019-0306-USA,Earthquake,Americas,United States,,2019,,7.1,2010,False
 2013-0555-CHN,Earthquake,Asia,China,,2013,,5.1,2010,False
 1996-0252-DEU,Storm,Europe,Germany,,1996,Lilli,,1990,False
-1986-0050-BGD,Storm,Asia,Bengladesh,100.0,1986,,,1980,True
+1986-0050-BGD,Storm,Asia,Bangladesh,100.0,1986,,,1980,True
 1903-0003-USA,Flood,Americas,United States,250.0,1903,,,1900,True
 2025-0132-ECU,Storm,Americas,Ecuador,55.0,2025,,,2020,True
 2021-0436-FRA,Storm,Europe,France,,2021,,,2020,False
@@ -4381,7 +4381,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2024-0011-COL,Mass Movement (Wet),Americas,Colombia,34.0,2024,,,2020,True
 2009-0403-IND,Epidemic,Asia,India,311.0,2009,Japanese Encephalitis and Acute Encephalitis Syndrome,,2000,True
 2023-0760-BOL,Wildfire,Americas,Bolivia,12.0,2023,,,2020,True
-2005-0662-SPI,Storm,Africa,Canary Islands,19.0,2005,,,2000,True
+2005-0662-SPI,Storm,Africa,Spain,19.0,2005,,,2000,True
 1991-0200-COM,Volcanic Activity,Africa,Comoros,,1991,Kartala,,1990,False
 2020-0464-SLV,Mass Movement (Wet),Americas,El Salvador,42.0,2020,,,2020,True
 1986-0018-BMU,Storm,Americas,Bermuda,,1986,,,1980,False
@@ -5095,7 +5095,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1999-0577-BIH,Storm,Europe,Bosnia And Herzegovina,,1999,,,1990,False
 2005-0713-FRA,Extreme Temperature,Europe,France,2.0,2005,,,2000,True
 2000-0002-AGO,Flood,Africa,Angola,31.0,2000,,,2000,True
-1997-0258-BGD,Storm,Asia,Bengladesh,15.0,1997,,,1990,True
+1997-0258-BGD,Storm,Asia,Bangladesh,15.0,1997,,,1990,True
 2001-0645-GBR,Flood,Europe,United Kingdom,,2001,,,2000,False
 2010-0344-CHN,Flood,Asia,China,152.0,2010,,,2010,True
 2007-0337-SWZ,Wildfire,Africa,Eswatini,2.0,2007,,,2000,True
@@ -5465,7 +5465,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1998-0067-USA,Storm,Americas,United States,14.0,1998,,,1990,True
 1987-0200-VNM,Storm,Asia,Vietnam,101.0,1987,Maury ,,1980,True
 1983-0307-HKG,Flood,Asia,Hong Kong,1.0,1983,,,1980,True
-1991-0170-BGD,Flood,Asia,Bengladesh,,1991,,,1990,False
+1991-0170-BGD,Flood,Asia,Bangladesh,,1991,,,1990,False
 2006-0045-AFG,Mass Movement (Wet),Asia,Afghanistan,15.0,2006,,,2000,True
 2008-0182-ARG,Volcanic Activity,Americas,Argentina,,2008,Chaiten,,2000,False
 2012-0130-RWA,Flood,Africa,Rwanda,5.0,2012,,,2010,True
@@ -5626,7 +5626,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2000-0338-USA,Storm,Americas,United States,,2000,,,2000,False
 1981-0090-MEX,Storm,Americas,Mexico,100.0,1981, St. Lidia ,,1980,True
 2023-0111-LBN,Extreme Temperature,Asia,Lebanon,,2023,,,2020,False
-1987-0100-CSK,Flood,Europe,Czechoslovakia,,1987,,,1980,False
+1987-0100-CSK,Flood,Europe,Czechia,,1987,,,1980,False
 2002-0647-MEX,Storm,Americas,Mexico,,2002,Julio,,2000,False
 2001-0779-NZL,Extreme Temperature,Oceania,New Zealand,,2001,,,2000,False
 2000-0506-KEN,Epidemic,Africa,Kenya,7.0,2000,Visceral leishmaniasis (Kala-Azar),,2000,True
@@ -6058,11 +6058,11 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2020-0522-UGA,Flood,Africa,Uganda,7.0,2020,,,2020,True
 2021-9546-ETH,Drought,Africa,Ethiopia,,2021,,,2020,False
 1989-0003-COM,Epidemic,Africa,Comoros,3.0,1989,,,1980,True
-1999-0734-BGD,Flood,Asia,Bengladesh,,1999,,,1990,False
+1999-0734-BGD,Flood,Asia,Bangladesh,,1999,,,1990,False
 2017-0449-GTM,Flood,Americas,Guatemala,,2017,,,2010,False
 1977-0069-COL,Mass Movement (Wet),Americas,Colombia,,1977,,,1970,False
 1984-0006-ARG,Mass Movement (Wet),Americas,Argentina,30.0,1984,,,1980,True
-2002-0171-SPI,Flood,Africa,Canary Islands,16.0,2002,,,2000,True
+2002-0171-SPI,Flood,Africa,Spain,16.0,2002,,,2000,True
 2023-0078-MOZ,Flood,Africa,Mozambique,14.0,2023,,,2020,True
 1995-0034-CYP,Earthquake,Asia,Cyprus,2.0,1995,,5.8,1990,True
 2005-0735-ETH,Epidemic,Africa,Ethiopia,34.0,2005,,,2000,True
@@ -6289,7 +6289,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2014-0058-SYC,Flood,Africa,Seychelles,,2014,,,2010,False
 2011-0583-PER,Storm,Americas,Peru,16.0,2011,,,2010,True
 2024-0009-MUS,Storm,Africa,Mauritius,2.0,2024,Cyclone 'Belal' ,,2020,True
-2001-0632-SPI,Flood,Africa,Canary Islands,7.0,2001,,,2000,True
+2001-0632-SPI,Flood,Africa,Spain,7.0,2001,,,2000,True
 1903-0008-JAM,Storm,Americas,Jamaica,65.0,1903,,,1900,True
 1999-0619-USA,Storm,Americas,Etats-Unis,3.0,1999,Dennis,,1990,True
 2023-0464-CHN,Storm,Asia,China,56.0,2023,,,2020,True
@@ -6359,7 +6359,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2005-0015-USA,Flood,Americas,United States,28.0,2005,,,2000,True
 2007-0067-IDN,Epidemic,Asia,Indonesia,22.0,2007,,,2000,True
 2024-0016-BOL,Flood,Americas,Bolivia,2.0,2024,,,2020,True
-1992-0175-BGD,Storm,Asia,Bengladesh,7.0,1992,,0.001,1990,True
+1992-0175-BGD,Storm,Asia,Bangladesh,7.0,1992,,0.001,1990,True
 2017-0381-CUB,Storm,Americas,Cuba,10.0,2017,,,2010,True
 1997-0321-BGD,Storm,Asia,Bangladesh,11.0,1997,,,1990,True
 1990-0421-BGD,Storm,Asia,Bangladesh,250.0,1990,,,1990,True
@@ -6689,7 +6689,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2003-0633-USA,Mass Movement (Wet),Americas,United States,15.0,2003,,,2000,True
 2016-0246-BOL,Flood,Americas,Bolivia,,2016,,,2010,False
 1944-0028-AUS,Wildfire,Oceania,Australia,49.0,1944,,,1940,True
-1982-9350-BGD,Drought,Asia,Bengladesh,,1983,,,1980,False
+1982-9350-BGD,Drought,Asia,Bangladesh,,1983,,,1980,False
 2019-0533-FRA,Storm,Europe,France,1.0,2019,Storm 'Amelie',,2010,True
 2018-0224-SWE,Wildfire,Europe,Sweden,,2018,,,2010,False
 2005-0296-BRA,Flood,Americas,Brazil,28.0,2005,,,2000,True
@@ -6899,7 +6899,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1968-0057-CHL,Storm,Americas,Chile,,1968,,,1960,False
 1969-0109-IND,Storm,Asia,India,200.0,1969,,,1960,True
 1987-0124-COL,Flood,Americas,Colombia,21.0,1987,,,1980,True
-2024-0719-BGD,Flood,Asia,Bengladesh,10.0,2024,,,2020,True
+2024-0719-BGD,Flood,Asia,Bangladesh,10.0,2024,,,2020,True
 1987-0126-CHL,Flood,Americas,Chile,73.0,1987,,,1980,True
 2020-0308-TWN,Storm,Asia,Taiwan,1.0,2020,Tropical cyclone 'Hagupit' (Dindo),,2020,True
 2002-0059-POL,Storm,Europe,Poland,6.0,2002,Jennifer,,2000,True
@@ -7280,7 +7280,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1989-0151-SUN,Mass Movement (Wet),Europe,Russia,46.0,1989,,,1980,True
 2004-0247-CHN,Flood,Asia,China,18.0,2004,,,2000,True
 1988-0705-CUB,Storm,Americas,Cuba,,1988,Gilbert,,1980,False
-1923-0003-BGD,Storm,Asia,Bengladesh,6.0,1923,,,1920,True
+1923-0003-BGD,Storm,Asia,Bangladesh,6.0,1923,,,1920,True
 1991-0174-PHL,Storm,Asia,Philippines,2.0,1991,,,1990,True
 2012-0613-USA,Storm,Americas,United States,,2012,,,2010,False
 1983-0134-MEX,Storm,Americas,Mexico,135.0,1983,Tico,,1980,True
@@ -7334,7 +7334,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2005-0651-CHN,Earthquake,Asia,Peoples Republic Of China,16.0,2005,,5.2,2000,True
 2004-0341-RWA,Epidemic,Africa,Rwanda,4.0,2004,Typhoid Fever,,2000,True
 2015-0333-PAK,Flood,Asia,Pakistan,18.0,2015,,,2010,True
-1996-0279-AZO,Storm,Europe,Azores Islands,,1996,,,1990,False
+1996-0279-AZO,Storm,Europe,Portugal,,1996,,,1990,False
 2019-0078-ECU,Flood,Americas,Ecuador,14.0,2019,,,2010,True
 1991-0047-ZAF,Wildfire,Africa,South Africa,5.0,1991,,,1990,True
 1996-0351-BGD,Storm,Asia,Bangladesh,24.0,1996,,,1990,True
@@ -7601,7 +7601,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1983-0344-FRA,Mass Movement (Wet),Europe,France,5.0,1983,,,1980,True
 2011-0290-CAF,Epidemic,Africa,Central African Republic,16.0,2011,Cholera,,2010,True
 1992-0146-PNG,Volcanic Activity,Oceania,Papua New Guinea,,1992,Manam,,1990,False
-1974-0009-CSK,Mass Movement (Wet),Europe,Czechoslovakia,14.0,1974,,,1970,True
+1974-0009-CSK,Mass Movement (Wet),Europe,Czechia,14.0,1974,,,1970,True
 2010-0333-NPL,Flood,Asia,Nepal,12.0,2010,,,2010,True
 2022-0112-POL,Storm,Europe,Poland,4.0,2022,,,2020,True
 1982-0086-JPN,Flood,Asia,Japan,345.0,1982,,,1980,True
@@ -7736,7 +7736,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2000-0853-ARG,Wildfire,Americas,Argentina,8.0,2000,,,2000,True
 1995-0020-BEL,Storm,Europe,Belgium,6.0,1995,"Thalia, Urania, Valeska, Wilma",,1990,True
 1995-0035-BWA,Flood,Africa,Botswana,20.0,1995,,,1990,True
-2005-0701-BGD,Extreme Temperature,Asia,Bengladesh,100.0,2005,,8.0,2000,True
+2005-0701-BGD,Extreme Temperature,Asia,Bangladesh,100.0,2005,,8.0,2000,True
 2015-9257-PRK,Drought,Asia,North Korea,,2015,,,2010,False
 2002-0694-GRC,Flood,Europe,Greece,,2002,,,2000,False
 1968-0069-JPN,Storm,Asia,Japan,,1968,,,1960,False
@@ -8446,7 +8446,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1975-0030-IRN,Storm,Asia,Iran,14.0,1975,,,1970,True
 2020-0022-BRA,Flood,Americas,Brazil,61.0,2020,,,2020,True
 2019-0216-TJK,Flood,Asia,Tajikistan,4.0,2019,,,2010,True
-1985-0247-CSK,Extreme Temperature,Europe,Czechoslovakia,,1985,,,1980,False
+1985-0247-CSK,Extreme Temperature,Europe,Czechia,,1985,,,1980,False
 2011-0289-ZWE,Epidemic,Africa,Zimbabwe,45.0,2011,Cholera,,2010,True
 1976-0089-PHL,Storm,Asia,Philippines,110.0,1976,,,1970,True
 2007-0167-HTI,Flood,Americas,Haiti,2.0,2007,,,2000,True
@@ -9211,7 +9211,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1984-0274-ITA,Earthquake,Europe,Italy,1.0,1984,,,1980,True
 1987-0240-PHL,Storm,Asia,Philippines,22.0,1987,Phillis (Trining),,1980,True
 1906-0013-USA,Earthquake,Americas,United States,700.0,1906,,7.9,1900,True
-1946-0022-AZO,Storm,Europe,Azores Islands,27.0,1946,,,1940,True
+1946-0022-AZO,Storm,Europe,Portugal,27.0,1946,,,1940,True
 1985-0128-LKA,Storm,Asia,Sri Lanka,,1985,,,1980,False
 2016-0230-CHN,Storm,Asia,China,12.0,2016,,,2010,True
 1926-0020-FRA,Mass Movement (Wet),Europe,France,28.0,1926,,,1920,True
@@ -9354,7 +9354,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2023-0095-MOZ,Storm,Africa,Mozambique,183.0,2023, Tropical cyclone 'Freddy' ,,2020,True
 1986-0188-CAN,Wildfire,Americas,Canada,,1986,,,1980,False
 2010-0432-VNM,Storm,Asia,Vietnam,14.0,2010,Typhoon Mindulle,,2010,True
-1985-0038-BGD,Epidemic,Asia,Bengladesh,400.0,1985,,,1980,True
+1985-0038-BGD,Epidemic,Asia,Bangladesh,400.0,1985,,,1980,True
 2014-0385-MEX,Storm,Americas,Mexico,1.0,2014,Tropical storm Dolly ,,2010,True
 2008-0077-PHL,Flood,Asia,Philippines,63.0,2008,,,2000,True
 2005-0311-CHN,Storm,Asia,China,9.0,2005,,,2000,True
@@ -9737,7 +9737,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1983-0388-CHE,Flood,Europe,Switzerland,,1983,,,1980,False
 1995-0476-IDN,Flood,Asia,Indonesia,18.0,1995,,,1990,True
 2005-0686-AFG,Earthquake,Asia,Afghanistan,5.0,2005,,6.5,2000,True
-1984-0252-CSK,Storm,Europe,Czechoslovakia,,1984,,,1980,False
+1984-0252-CSK,Storm,Europe,Czechia,,1984,,,1980,False
 2003-0151-IND,Mass Movement (Wet),Asia,India,25.0,2003,,,2000,True
 2013-0385-GIN,Flood,Africa,Guinea,,2013,,,2010,False
 2014-0458-CHE,Storm,Europe,Switzerland,2.0,2014,,,2010,True
@@ -10679,7 +10679,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1983-9060-DJI,Drought,Africa,Djibouti,,1983,,,1980,False
 2017-0228-ESP,Wildfire,Europe,Spain,,2017,,,2010,False
 2000-0104-ETH,Wildfire,Africa,Ethiopia,,2000,,,2000,False
-1989-0071-BGD,Earthquake,Asia,Bengladesh,1.0,1989,,5.1,1980,True
+1989-0071-BGD,Earthquake,Asia,Bangladesh,1.0,1989,,5.1,1980,True
 2005-9362-NER,Drought,Africa,Niger,0.0,2005,,,2000,False
 2023-0548-IND,Mass Movement (Wet),Asia,India,26.0,2023,,,2020,True
 2021-0334-AUS,Flood,Oceania,Australia,2.0,2021,,,2020,True
@@ -10829,7 +10829,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1995-0032-PRY,Flood,Americas,Paraguay,,1995,,,1990,False
 1997-0003-CHN,Extreme Temperature,Asia,China,24.0,1997,,,1990,True
 2004-0258-VNM,Storm,Asia,Vietnam,14.0,2004,Chanthu (Gener/08W),,2000,True
-1980-0001-AZO,Earthquake,Europe,Azores Islands,69.0,1980,,6.7,1980,True
+1980-0001-AZO,Earthquake,Europe,Portugal,69.0,1980,,6.7,1980,True
 2024-0246-IND,Extreme Temperature,Asia,India,733.0,2024,,,2020,True
 1991-0032-AFG,Flood,Asia,Afghanistan,415.0,1991,,,1990,True
 2018-0438-TCD,Epidemic,Africa,Chad,90.0,2018,Measles,,2010,True
@@ -11003,7 +11003,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1997-0157-HRV,Wildfire,Europe,Croatia,,1997,,,1990,False
 1999-0571-GBR,Storm,Europe,United  Kingdom  Of  Great  Britain  And  Northern  Ireland,8.0,1999,Lothar,,1990,True
 2012-0162-ITA,Earthquake,Europe,Italy,17.0,2012,,5.8,2010,True
-1999-0738-BGD,Storm,Asia,Bengladesh,50.0,1999,,,1990,True
+1999-0738-BGD,Storm,Asia,Bangladesh,50.0,1999,,,1990,True
 2017-0079-BWA,Flood,Africa,Botswana,,2017,,,2010,False
 2013-0268-NZL,Earthquake,Oceania,New Zealand,,2013,,6.5,2010,False
 2001-9044-TCD,Drought,Africa,Chad,,2001,,,2000,False
@@ -11073,7 +11073,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2010-0260-NIC,Storm,Americas,Nicaragua,5.0,2010,"Tropical storm ""Alex""",,2010,True
 1992-0093-DEU,Earthquake,Europe,Germany,1.0,1992,,5.6,1990,True
 2013-0408-PRY,Storm,Americas,Paraguay,,2013,,,2010,False
-2021-0613-SPI,Volcanic Activity,Africa,Canary Islands,1.0,2021,Cumbre Vieja volcano,,2020,True
+2021-0613-SPI,Volcanic Activity,Africa,Spain,1.0,2021,Cumbre Vieja volcano,,2020,True
 2015-0361-ECU,Volcanic Activity,Americas,Ecuador,,2015,Cotopaxi,,2010,False
 1995-0322-CHN,Mass Movement (Wet),Asia,China,37.0,1995,,,1990,True
 2007-0380-TWN,Storm,Asia,Taiwan,,2007, Sepat,,2000,False
@@ -11310,7 +11310,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2020-0264-GTM,Flood,Americas,Guatemala,,2020,,,2020,False
 2021-0015-MYS,Flood,Asia,Malaysia,,2021,,,2020,False
 2019-0528-TON,Epidemic,Oceania,Tonga,,2019,Measles,,2010,False
-1993-0046-BGD,Epidemic,Asia,Bengladesh,38.0,1993,,,1990,True
+1993-0046-BGD,Epidemic,Asia,Bangladesh,38.0,1993,,,1990,True
 2014-0336-JPN,Volcanic Activity,Asia,Japan,63.0,2014,Mt. Ontake,,2010,True
 1985-0120-GTM,Earthquake,Americas,Guatemala,,1985,,4.5,1980,False
 1989-0153-LSO,Storm,Africa,Lesotho,,1989,,,1980,False
@@ -11514,7 +11514,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2020-0221-OMN,Flood,Asia,Oman,3.0,2020,,,2020,True
 2019-0176-ZAF,Flood,Africa,South Africa,73.0,2019,,,2010,True
 2019-0055-MDA,Extreme Temperature,Europe,Republic Of Moldova,,2019,,,2010,False
-2000-0467-BGD,Epidemic,Asia,Bengladesh,21.0,2000,Dengue,,2000,True
+2000-0467-BGD,Epidemic,Asia,Bangladesh,21.0,2000,Dengue,,2000,True
 2019-9389-LKA,Drought,Asia,Sri Lanka,,2019,,,2010,False
 2007-0245-PAK,Storm,Asia,Pakistan,242.0,2007,Cyclone 'Yemyin',,2000,True
 2009-0250-LKA,Epidemic,Asia,Sri Lanka,346.0,2009,Dengue,,2000,True
@@ -11596,7 +11596,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2017-0305-NER,Epidemic,Africa,Niger,34.0,2017, Hepatitis E Virus ,,2010,True
 2008-0607-VNM,Flood,Asia,Vietnam,9.0,2008,,,2000,True
 2015-0121-MEX,Storm,Americas,Mexico,14.0,2015,,,2010,True
-1967-0034-BGD,Storm,Asia,Bengladesh,50.0,1967,,,1960,True
+1967-0034-BGD,Storm,Asia,Bangladesh,50.0,1967,,,1960,True
 1985-0118-KOR,Storm,Asia,South Korea,57.0,1985,Brenda,,1980,True
 1986-0127-NGA,Epidemic,Africa,Nigeria,1000.0,1986,Yellow fever,,1980,True
 2023-0879-MYS,Epidemic,Asia,Malaysia,100.0,2023,Dengue,,2020,True
@@ -11672,7 +11672,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1999-0015-ZAF,Storm,Africa,South Africa,21.0,1999,,,1990,True
 1986-9024-ZAF,Drought,Africa,South Africa,,1986,,,1980,False
 2021-0645-IND,Storm,Asia,India,7.0,2021,,,2020,True
-1918-0001-BGD,Epidemic,Asia,Bengladesh,393000.0,1918, Influenza,,1910,True
+1918-0001-BGD,Epidemic,Asia,Bangladesh,393000.0,1918, Influenza,,1910,True
 2014-0463-MAR,Storm,Africa,Morocco,49.0,2014,,,2010,True
 2009-0322-NIC,Flood,Americas,Nicaragua,,2009,,,2000,False
 1999-0732-PHL,Mass Movement (Wet),Asia,Philippines,58.0,1999,,,1990,True
@@ -12114,7 +12114,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2022-0808-USA,Earthquake,Americas,United States,2.0,2022,,6.4,2020,True
 2000-0692-DZA,Flood,Africa,Algeria,28.0,2000,,,2000,True
 1997-0022-BOL,Flood,Americas,Bolivia,40.0,1997,,,1990,True
-1951-0036-BGD,Storm,Asia,Bengladesh,200.0,1951,,,1950,True
+1951-0036-BGD,Storm,Asia,Bangladesh,200.0,1951,,,1950,True
 2010-0682-CHN,Mass Movement (Wet),Asia,China,28.0,2010,,,2010,True
 1981-0245-PAK,Flood,Asia,Pakistan,82.0,1981,,,1980,True
 1906-9025-NER,Drought,Africa,Niger,,1906,,,1900,False
@@ -12252,7 +12252,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1987-9014-ETH,Drought,Africa,Ethiopia,367.0,1987,,,1980,True
 1974-0048-COL,Mass Movement (Wet),Americas,Colombia,90.0,1974,,,1970,True
 1923-0027-COL,Earthquake,Americas,Colombia,300.0,1923,,5.3,1920,True
-2004-0361-SPI,Extreme Temperature,Africa,Canary Islands,13.0,2004,,,2000,True
+2004-0361-SPI,Extreme Temperature,Africa,Spain,13.0,2004,,,2000,True
 2013-0542-IDN,Volcanic Activity,Asia,Indonesia,,2013, Mt. Sinabung,,2010,False
 2022-0465-SVK,Extreme Temperature,Europe,Slovakia,365.0,2022,,,2020,True
 2024-0707-IRN,Flood,Asia,Iran,15.0,2024,,,2020,True
@@ -12394,7 +12394,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2015-0207-IND,Flood,Asia,India,8.0,2015,,,2010,True
 2002-0701-IDN,Volcanic Activity,Asia,Indonesia,,2002,Mt. Papandayan,,2000,False
 2019-0432-RUS,Flood,Europe,Russian Federation,,2019,,,2010,False
-1999-0576-BGD,Storm,Asia,Bengladesh,66.0,1999,,,1990,True
+1999-0576-BGD,Storm,Asia,Bangladesh,66.0,1999,,,1990,True
 2014-0397-JPN,Storm,Asia,Japan,7.0,2014,Typhoon Phanfone,,2010,True
 2011-0296-TJK,Flood,Asia,Tajikistan,,2011,,,2010,False
 2008-0306-MDA,Flood,Europe,Republic Of Moldova,3.0,2008,,,2000,True
@@ -12617,7 +12617,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2000-0396-PHL,Storm,Asia,Philipines,11.0,2000,Kirogi,,2000,True
 1999-0729-PHL,Storm,Asia,Philippines,33.0,1999,Sendang,,1990,True
 1997-0204-GNB,Epidemic,Africa,Guinea-Bissau,781.0,1997,Cholera,,1990,True
-2008-0385-BGD,Flood,Asia,Bengladesh,12.0,2008,,,2000,True
+2008-0385-BGD,Flood,Asia,Bangladesh,12.0,2008,,,2000,True
 2003-0561-THA,Flood,Asia,Thailand,3.0,2003,,,2000,True
 1985-0110-IDN,Earthquake,Asia,Indonesia,10.0,1985,,6.3,1980,True
 1983-9535-BOL,Drought,Americas,Bolivia,,1983,,,1980,False
@@ -12697,7 +12697,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2000-0164-RUS,Mass Movement (Wet),Europe,Russian Federation,20.0,2000,,,2000,True
 2023-0254-BGD,Storm,Asia,Bangladesh,10.0,2023,,,2020,True
 1990-0188-FJI,Earthquake,Oceania,Fiji,,1990,,7.4,1990,False
-1990-0706-BGD,Extreme Temperature,Asia,Bengladesh,50.0,1990,,,1990,True
+1990-0706-BGD,Extreme Temperature,Asia,Bangladesh,50.0,1990,,,1990,True
 1979-0020-BFA,Epidemic,Africa,Burkina  Faso,241.0,1979,,,1970,True
 2016-0503-PHL,Storm,Asia,Philippines,24.0,2016,Typhoon 'Nina' (Nock-Ten),,2010,True
 1922-0011-CAN,Wildfire,Americas,Canada,43.0,1922,,,1920,True
@@ -13135,7 +13135,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2022-0609-ITA,Flood,Europe,Italy,12.0,2022,,,2020,True
 1982-0096-MEX,Flood,Americas,Mexico,4.0,1982,,,1980,True
 1978-0111-IND,Flood,Asia,India,810.0,1978,,,1970,True
-2003-0283-BGD,Flood,Asia,Bengladesh,187.0,2003,,,2000,True
+2003-0283-BGD,Flood,Asia,Bangladesh,187.0,2003,,,2000,True
 2002-0278-CHN,Flood,Asia,China,,2002,,,2000,False
 1953-0042-IND,Extreme Temperature,Asia,India,400.0,1953,,,1950,True
 2017-0530-IDN,Earthquake,Asia,Indonesia,4.0,2017,,6.5,2010,True
@@ -13244,7 +13244,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2024-0351-USA,Storm,Americas,United States,2.0,2024,,,2020,True
 2019-0165-TZA,Storm,Africa,Tanzania,,2019,Cyclone 'Kenneth',,2010,False
 2010-0526-GIN,Flood,Africa,Guinea,1.0,2010,,,2010,True
-1997-0281-BGD,Earthquake,Asia,Bengladesh,23.0,1997,,5.9,1990,True
+1997-0281-BGD,Earthquake,Asia,Bangladesh,23.0,1997,,5.9,1990,True
 2008-0484-HND,Flood,Americas,Honduras,67.0,2008, Tropical Depression Sixteen,,2000,True
 2023-0660-AFG,Earthquake,Asia,Afghanistan,1.0,2023,,6.3,2020,True
 2005-0123-CHN,Storm,Asia,China,36.0,2005,,,2000,True
@@ -13509,7 +13509,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1982-0095-KOR,Storm,Asia,South Korea,5.0,1982,Ellis,,1980,True
 2004-0029-MDG,Storm,Africa,Madagascar,32.0,2004,Elita,,2000,True
 1967-9005-TZA,Drought,Africa,Tanzania,,1967,,,1960,False
-1981-0214-CSK,Storm,Europe,Czechoslovakia,,1981,,,1980,False
+1981-0214-CSK,Storm,Europe,Czechia,,1981,,,1980,False
 2004-0670-SVN,Earthquake,Europe,Slovenia,1.0,2004,,5.2,2000,True
 1983-0132-PNG,Volcanic Activity,Oceania,Papua New Guinea,,1983,Rabaul,,1980,False
 1999-0564-IND,Epidemic,Asia,India,69.0,1999,,,1990,True
@@ -14400,7 +14400,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1983-0104-CHE,Storm,Europe,Switzerland,,1983,,,1980,False
 2022-0613-KHM,Storm,Asia,Cambodia,16.0,2022,Tropical cyclone 'Noru' (Karding) ,,2020,True
 1972-0056-KIR,Storm,Oceania,Kiribati,3.0,1972,Bebe,,1970,True
-1958-0014-BGD,Storm,Asia,Bengladesh,500.0,1958,,,1950,True
+1958-0014-BGD,Storm,Asia,Bangladesh,500.0,1958,,,1950,True
 1966-0045-TWN,Storm,Asia,Taiwan,36.0,1966,Judy ,,1960,True
 2008-0247-GTM,Mass Movement (Wet),Americas,Guatemala,27.0,2008,,,2000,True
 2005-0329-TUR,Earthquake,Asia,Turkey,,2005,,5.6,2000,False
@@ -15100,7 +15100,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2015-0075-AGO,Flood,Africa,Angola,5.0,2015,,,2010,True
 2023-0764-GTM,Mass Movement (Wet),Americas,Guatemala,86.0,2023,,,2020,True
 2017-0218-CHL,Flood,Americas,Chile,2.0,2017,,,2010,True
-1991-0764-BGD,Flood,Asia,Bengladesh,200.0,1991,,,1990,True
+1991-0764-BGD,Flood,Asia,Bangladesh,200.0,1991,,,1990,True
 1984-9151-RWA,Drought,Africa,Rwanda,,1984,,,1980,False
 2011-9663-SOM,Drought,Africa,Somalia,,2012,,,2010,False
 2024-0423-CHN,Storm,Asia,China,5.0,2024,,,2020,True
@@ -15413,7 +15413,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1998-0293-NLD,Flood,Europe,Netherlands,,1998,,,1990,False
 1986-0148-NLD,Storm,Europe,Netherlands,,1986,,,1980,False
 2000-0073-TZA,Epidemic,Africa,Tanzania,4.0,2000,,,2000,True
-2013-0090-BGD,Storm,Asia,Bengladesh,2.0,2013,,,2010,True
+2013-0090-BGD,Storm,Asia,Bangladesh,2.0,2013,,,2010,True
 2012-0033-BGR,Flood,Europe,Bulgaria,5.0,2012,,,2010,True
 2025-0113-BWA,Flood,Africa,Botswana,9.0,2025,,,2020,True
 1995-0239-RUS,Mass Movement (Wet),Europe,Russian Federation,17.0,1995,,,1990,True
@@ -15580,14 +15580,14 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1952-0010-HTI,Earthquake,Americas,Haiti,6.0,1952,,,1950,True
 1997-0270-ETH,Flood,Africa,Ethiopia,297.0,1997,,,1990,True
 2003-0129-UKR,Flood,Europe,Ukraine,,2003,,,2000,False
-2024-0129-SPI,Storm,Africa,Canary Islands,2.0,2024,Storm 'Monica' (Elfi),,2020,True
+2024-0129-SPI,Storm,Africa,Spain,2.0,2024,Storm 'Monica' (Elfi),,2020,True
 2015-9411-IDN,Drought,Asia,Indonesia,11.0,2015,,,2010,True
 2003-0387-IND,Flood,Asia,India,13.0,2003,,,2000,True
 2022-0465-CZE,Extreme Temperature,Europe,Czechia,279.0,2022,,,2020,True
 1912-0006-TUR,Earthquake,Asia,Turkey,923.0,1912,,7.8,1910,True
 1984-0245-BEL,Storm,Europe,Belgium,,1984,,,1980,False
 2012-0477-CHN,Flood,Asia,China,58.0,2012,,,2010,True
-2007-0329-SPI,Wildfire,Africa,Canary Islands,,2007,,,2000,False
+2007-0329-SPI,Wildfire,Africa,Spain,,2007,,,2000,False
 1973-0045-JAM,Storm,Americas,Jamaica,6.0,1973,Gilda,,1970,True
 1910-9006-MLI,Drought,Africa,Mali,,1910,,,1910,False
 1999-9171-MEX,Drought,Americas,Mexico,,1999,,,1990,False
@@ -15679,7 +15679,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2013-0206-TWN,Earthquake,Asia,Taiwan,4.0,2013,,6.2,2010,True
 2019-0081-USA,Storm,Americas,United States,28.0,2019,,,2010,True
 1998-0148-BRA,Epidemic,Americas,Brazil,,1998,Dengue fever,,1990,False
-2017-0556-BGD,Epidemic,Asia,Bengladesh,15.0,2017,Diphteria,,2010,True
+2017-0556-BGD,Epidemic,Asia,Bangladesh,15.0,2017,Diphteria,,2010,True
 1987-0568-NZL,Wildfire,Oceania,New Zealand,,1987,,,1980,False
 2017-0033-DZA,Extreme Temperature,Africa,Algeria,,2017,,,2010,False
 1964-0055-IND,Flood,Asia,India,,1964,,,1960,False
@@ -15782,7 +15782,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2019-0098-PNG,Flood,Oceania,Papua New Guinea,2.0,2019,,,2010,True
 2004-0473-VIR,Storm,Americas,United States Virgin Islands,,2004, Jeanne,,2000,False
 2019-0301-ESP,Flood,Europe,Spain,1.0,2019,,,2010,True
-1964-0039-BGD,Flood,Asia,Bengladesh,,1964,,,1960,False
+1964-0039-BGD,Flood,Asia,Bangladesh,,1964,,,1960,False
 2024-0650-JPN,Storm,Asia,Japan,9.0,2024, Tropical cyclone 'Shanshan',,2020,True
 2014-0211-NGA,Flood,Africa,Nigeria,15.0,2014,,,2010,True
 2000-0870-FRA,Flood,Europe,France,1.0,2000,,,2000,True
@@ -16098,7 +16098,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 1981-9194-HKG,Drought,Asia,"China,  Hong  Kong  Special  Administrative  Region",,1981,,,1980,False
 2013-0493-HND,Epidemic,Americas,Honduras,27.0,2013, Dengue,,2010,True
 1981-0235-IDN,Flood,Asia,Indonesia,,1981,,,1980,False
-1985-0129-BGD,Epidemic,Asia,Bengladesh,500.0,1985,,,1980,True
+1985-0129-BGD,Epidemic,Asia,Bangladesh,500.0,1985,,,1980,True
 1992-0484-IDN,Flood,Asia,Indonesia,57.0,1992,,,1990,True
 2022-0233-COL,Flood,Americas,Colombia,12.0,2022,,,2020,True
 1978-0033-USA,Storm,Americas,United States,65.0,1978,,,1970,True
@@ -16109,7 +16109,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2014-0530-MWI,Epidemic,Africa,Malawi,11.0,2015,Cholera,,2010,True
 1967-0070-DZA,Flood,Africa,Algeria,20.0,1967,,,1960,True
 2014-9265-CHN,Drought,Asia,China,,2014,,,2010,False
-1957-0025-SPI,Storm,Africa,Canary Islands,26.0,1957,,,1950,True
+1957-0025-SPI,Storm,Africa,Spain,26.0,1957,,,1950,True
 2018-0374-NIC,Flood,Americas,Nicaragua,4.0,2018,,,2010,True
 2009-9655-CHN,Drought,Asia,China,,2009,,,2000,False
 1991-0522-SUN,Flood,Europe,Russia,2.0,1991,,,1990,True
@@ -16422,7 +16422,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2007-0498-CUB,Flood,Americas,Cuba,,2007,,,2000,False
 2007-0455-CAF,Flood,Africa,Central African Republic,1.0,2007,,,2000,True
 1994-0210-AUS,Wildfire,Oceania,Australia,,1994,,,1990,False
-2007-0510-BGD,Epidemic,Asia,Bengladesh,32.0,2007,ARI,,2000,True
+2007-0510-BGD,Epidemic,Asia,Bangladesh,32.0,2007,ARI,,2000,True
 2022-0647-GTM,Storm,Americas,Guatemala,4.0,2022,Hurricane 'Julia',,2020,True
 2017-0271-CAN,Wildfire,Americas,Canada,,2017,"Gustafsen, Wildwood, Elephant Hill Fires",,2010,False
 2006-9554-AUS,Drought,Oceania,Australia,,2006,,,2000,False
@@ -16909,7 +16909,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2022-0465-MNE,Extreme Temperature,Europe,Montenegro,50.0,2022,,,2020,True
 1964-0069-LKA,Storm,Asia,Sri Lanka,206.0,1964,,,1960,True
 1973-0006-USA,Storm,Americas,United States,2.0,1973,,,1970,True
-1998-0206-AZO,Earthquake,Europe,Azores Islands,10.0,1998,,6.2,1990,True
+1998-0206-AZO,Earthquake,Europe,Portugal,10.0,1998,,6.2,1990,True
 2019-0227-UGA,Mass Movement (Wet),Africa,Uganda,61.0,2019,,,2010,True
 2012-0397-CHN,Earthquake,Asia,China,1.0,2012,,4.9,2010,True
 2003-0643-COD,Epidemic,Africa,DR Congo,37.0,2003, Acute diarrhoeal syndrome,,2000,True
@@ -16940,7 +16940,7 @@ ID_Catastrophe,Type_Catastrophe,Region,Pays,Nombre_Deces,Annee_Debut,Nom_Eveneme
 2020-0463-PHL,Storm,Asia,Phillippines,31.0,2020,Typhoon 'Goni' (Rolly),,2020,True
 1982-0147-MDG,Storm,Africa,Madagascar,92.0,1982,"Benedic, Electre, Frida, Justine ",,1980,True
 1977-0110-BGD,Flood,Asia,Bangladesh,5.0,1977,,,1970,True
-1981-0215-CSK,Extreme Temperature,Europe,Czechoslovakia,,1981,,,1980,False
+1981-0215-CSK,Extreme Temperature,Europe,Czechia,,1981,,,1980,False
 2002-0119-USA,Storm,Americas,Etats-Unis,28.0,2002,,,2000,True
 2022-0490-LKA,Flood,Asia,Sri Lanka,8.0,2022,,,2020,True
 2023-0110-ZMB,Flood,Africa,Zambia,,2023,,,2020,False
